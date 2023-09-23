@@ -1,88 +1,107 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Björn's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Björn Uhlig  
+--- 
+Fullstack Web Developer, Web-Accessibility-Expert & Consultant, WCAG/BITV Tester
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+<a href="mailto:bjoernuhlig@posteo.de">bjoernuhlig@posteo.de</a>
+| <a href="https://www.linkedin.com/in/bj%C3%B6rn-uhlig-88602493/">Linkedin</a>
+| <a href="tel:+4917643518328">+49 176 435 183 28 </a>
 
+</div>
 
 ## Currently
 
-Standing on the shoulders of giants
+Fullstack Web Developer and Web-Accessibility-Expert at Sozialhelden e.V.
 
-### Specialized in
+### Specialized 
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Setting up accessible Web Frontends  
+WCAG/BITV testing and consulting,
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+The perfectly performant and yet fully accessible Website
+
+## Work Experience
+
+`2021-Today`
+__Fullstack Web Developer & Accessibility-Expert at Sozialhelden e.V.__  
+Sozialhelden e.V. is a Berlin based NGO that works on digital solutions for social inclusion ([Wheelmap.org](https.//wheelmap.org), [A11yJSON](https://github.com/sozialhelden/a11yjson) and [accessibility.cloud](https://accessibility.cloud)/[Wheelmap.pro](https:.//wheelmap.pro)). Sozialhelden e.V. is also a [BIK BITV](https://bitvtest.de/start.html) testing agency offering certified BIK BITV tests as well as accessibility consulting for Websites.
+- Refactoring the Wheelmap.org Frontend to Next.js and React 18+ 
+- Implementing a k8s process to synchronize an OpenStreetMap Planet with Wheelmap (live at [beta.wheelmap.org](https://beta.wheelmap.org)) 
+- Conducting digital accessibility trainings for teams of developers and designers for customers from the public and the private sector
+- Testing Websites for EN 301549, BITV and WCAG compliance
+- Consulting Wheelmap.pro customers on accessiblity surveys (XLSForms)
+
+`2020-2021`
+__IT Student at Sozialhelden e.V.__  
+- Creating an Elasticsearch search-component for Wheelmap.org to search data from [accessibility.cloud](https://accessibility.cloud)
+- Maintaining and updating the A11yJSON data format
+- Research open accessibility data APIs, implement data import streams in the technical backend to import new data sources
+
+`2017-2019`
+__IT Student at Lufthansa Systems, NetLine Crew__  
+Lufthansa Systems is a leading provider of IT services in the airline industry. NetLine Crew is a crew management system for airlines. As an IT student i worked for both, the Lead Developer and the Lead Product Owner of NetLine Crew. 
+- Capacity planing, build enhancements
+- Restructuring of the development process to use agile methods (Scrum)
+- Documentation, reporting (EU-GPDR)
+- Event management (Lufthansa Systems Airline Forum 2018)
+
+`2015-2017`
+__Customer Manager at Lufthansa InTouch__  
+Lufthansa InTouch is the Lufthansa Group's service center for customer service. 
+- Sales support and First Class customer consulting for Lufthansa's frequent flyer program Miles & More Members including Lufthansa's HON Circle Members.
+
+`2014`
+__Customer Manager at Avocis__  
+Avocis is a call center service provider.
+- Sales support and contract consulting
+
+`2012-2008`
+__Project Manager at Crisp e.V.__   
+Crisp e.V. is a Berlin based NGO (Verein) that specializes in civil conflict transformation and political education.
+- Project management and organisational development
+- Conducting Seminars and Workshops 
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2022-2023`
+__DIAS GmbH, Hamburg__  
+Web Accessibility Tester ([BIK BITV Test](https://bitvtest.de/start.html))
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2016-2020`
+__HTW Hochschule für Technik und Wirtschaft__ Berlin  
+Bachelor of Science in Applied Comupter Science
+- Thesis: Searching Accessible Places: Implementing Elasticsearch for the Online Map Wheelmap.org
+- Final Grade: 2.0
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2005-2012`
+__Freie Universität, Berlin__  
+Diploma in Political Science
+- Final Grade: 1.4
 
 
+## IT Skills 
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+| __Language__ | __Framework__ | __DevOps__  | __DB__   | 
+| ------------ | ------------- | ----------- | -------- | 
+| Javascript   | React         | Git         | PostGIS  | 
+| Typescript   | Meteor        | K8s/Argo    | MongoDB  | 
+| HTML         | Next.js       | Docker      |          | 
+| Java/Scala   |               | Elastic     |          | 
+| CSS          |               | Node        |          | 
 
 
-## Occupation
+## Languages
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+- __German__, native
+- __English__, Fluent C1
+- __Polish__, Basic B1
 
 <!-- ### Footer
 
