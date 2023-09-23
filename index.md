@@ -24,7 +24,7 @@ WCAG/BITV testing and consulting,
 
 ### Research interests
 
-The perfectly performant and yet fully accessible Website
+The perfectly performing and fully accessible Website
 
 ## Work Experience
 
