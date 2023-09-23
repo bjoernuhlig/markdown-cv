@@ -32,7 +32,7 @@ body {
 	line-height: 1;
 }
 ol, ul {
-	list-style: none;
+	list-style: inherit;
 }
 blockquote, q {
 	quotes: none;
@@ -45,6 +45,12 @@ q:before, q:after {
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
+	position: relative;
+	left: 28rem;
+	margin-bottom: 0.7em;
+	margin-right: 0;
+	width: 36%;
+	text-align: left;
 }
 
 /* end of reset */
@@ -63,7 +69,7 @@ body {
 
 p {
 	position: relative;
-	left: 33%;
+	left: 28rem;
 	margin-bottom: 0.7em;
 	margin-right: 0;
 	width: 65%;
@@ -71,21 +77,21 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 60%;
+	font-size: 80%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
-	color: #aaa;
+	color: #776;
 }
 
 p code {
 	position: absolute;
-	left: -14%;
+	left: -5rem;
 }
 
 
 ul { 
 	position: relative;
-	left: 33%;
+	left: 26.8rem;
 	width: 65%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
@@ -123,12 +129,13 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 33%;
+	left: 25.8rem;
+	margin-bottom: 1rem;
 }
 
 h1+p { 
 	/*subtitle*/
-	font-style: italic;
+	
 	font-size: 110%;
 }
 
@@ -163,10 +170,10 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 33%;
-	color: #aaa;
+	left: 28rem;
+	color: #a00;
 	font-family: Menlo,monospace,sans-serif;
-	font-size: 80%;
+	
 }
 
 #webaddress a {

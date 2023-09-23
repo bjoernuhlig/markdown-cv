@@ -3,19 +3,87 @@
    License: none (public domain)
 */
 
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed,
-figure, figcaption, footer, header, hgroup,
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
 	margin: 0;
 	padding: 0;
 	border: 0;
@@ -23,28 +91,58 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
+
+/* to not have a horizontal scrollbar */
+html {
+	overflow-x: hidden;
+}
+
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section {
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
 	display: block;
 }
+
 body {
 	line-height: 1;
 }
-ol, ul {
-	list-style: none;
+
+ol,
+ul {
+	list-style: inherit;
 }
-blockquote, q {
+
+blockquote,
+q {
 	quotes: none;
 }
-blockquote:before, blockquote:after,
-q:before, q:after {
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
 	content: '';
 	content: none;
 }
+
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
+	position: relative;
+	left: 25%;
+	margin-bottom: 0.7em;
+	margin-right: 0;
+	width: 36%;
+	text-align: left;
 }
 
 /* end of reset */
@@ -56,7 +154,7 @@ body {
 	font-size: 100%;
 	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Avenir,Verdana,sans-serif;
+	font-family: Avenir, Verdana, sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
 }
@@ -73,8 +171,8 @@ code {
 	font: normal normal;
 	font-size: 90%;
 	/*line-height: 1em;*/
-	font-family: Monaco,Menlo,monospace,sans-serif;
-	color: #aaa;
+	font-family: Monaco, Menlo, monospace, sans-serif;
+	color: #776;
 }
 
 p code {
@@ -86,10 +184,10 @@ p code {
 
 ul {
 	position: relative;
-	left: 25%;
-	width: 75%;
+	left: 26.2%;
+	width: 55%;
 	margin-bottom: 1.5em;
-	margin-top: -0.5em;
+	margin-top: -0.4em;
 }
 
 /*uncomment to get dashes in the list*/
@@ -99,12 +197,7 @@ ul {
 	left: -0.25em;
 }*/
 
-li {
-	/*second line indent*/
-	padding-left: 1.25em;
-	text-indent: -1.25em;
-	/*color: #777;*/
-}
+
 
 li ul {
 	position: relative;
@@ -113,9 +206,12 @@ li ul {
 	margin-top: 0.25em;
 }
 
-h1,h2,h3,h4 {
+h1,
+h2,
+h3,
+h4 {
 	font-weight: 400;
-	font-family: Avenir,Cousine,Verdana,sans-serif;
+	font-family: Avenir, Cousine, Verdana, sans-serif;
 	width: 80%;
 }
 
@@ -131,12 +227,13 @@ h1+p {
 	/*subtitle*/
 	font-style: italic;
 	font-size: 110%;
+	margin-top: 1rem;
 }
 
 h2 {
 	font-size: 1.1em;
 	color: #bc412b;
-	margin-top: 3em;
+	margin-top: 1em;
 	position: relative;
 	top: 1.4em;
 	text-align: right;
@@ -145,7 +242,7 @@ h2 {
 
 h3 {
 	font-size: 1em;
-	line-height: 2em;
+	line-height: 1em;
 	position: relative;
 	top: 1.7em;
 	text-align: right;
@@ -158,20 +255,20 @@ a {
 }
 
 a:hover {
-	color:#39f
+	color: #39f
 }
 
 #webaddress {
-	margin-top: 1em;
+	margin-top: 1rem;
 	position: relative;
 	left: 25%;
 	color: #bc412b;
-	font-family: Monaco,Menlo,monospace,sans-serif;
+	font-family: Monaco, Menlo, monospace, sans-serif;
 	font-size: 100%;
 }
 
 #webaddress a {
-	text-decoration: none;
+	/* text-decoration: none; */
 }
 
 em {

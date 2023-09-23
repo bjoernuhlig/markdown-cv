@@ -3,8 +3,8 @@ layout: cv
 title: Björn's CV
 ---
 # Björn Uhlig  
---- 
-Fullstack Web Developer, Web-Accessibility-Expert & Consultant, WCAG/BITV Tester
+
+Fullstack Web Developer -- Web-Accessibility-Expert -- WCAG/BITV Tester
 
 <div id="webaddress">
 <a href="mailto:bjoernuhlig@posteo.de">bjoernuhlig@posteo.de</a>
@@ -30,24 +30,22 @@ The perfectly performant and yet fully accessible Website
 
 `2021-Today`
 __Fullstack Web Developer & Accessibility-Expert at Sozialhelden e.V.__  
-Sozialhelden e.V. is a Berlin based NGO that works on digital solutions for social inclusion ([Wheelmap.org](https.//wheelmap.org), [A11yJSON](https://github.com/sozialhelden/a11yjson) and [accessibility.cloud](https://accessibility.cloud)/[Wheelmap.pro](https:.//wheelmap.pro)). Sozialhelden e.V. is also a [BIK BITV](https://bitvtest.de/start.html) testing agency offering certified BIK BITV tests as well as accessibility consulting for Websites.
+`2019-2021`
+__IT Student at Sozialhelden e.V.__   
+Sozialhelden e.V. is a Berlin based NGO that works on digital solutions for social inclusion ([Wheelmap.org](https.//wheelmap.org), [A11yJSON](https://github.com/sozialhelden/a11yjson) and [Accessibility.cloud](https://accessibility.cloud)/[Wheelmap.pro](https:.//wheelmap.pro)), is a [BIK BITV](https://bitvtest.de/start.html) certifying testing agency and offers accessibility consulting for Websites.
 - Refactoring the Wheelmap.org Frontend to Next.js and React 18+ 
 - Implementing a k8s process to synchronize an OpenStreetMap Planet with Wheelmap (live at [beta.wheelmap.org](https://beta.wheelmap.org)) 
 - Conducting digital accessibility trainings for teams of developers and designers for customers from the public and the private sector
 - Testing Websites for EN 301549, BITV and WCAG compliance
 - Consulting Wheelmap.pro customers on accessiblity surveys (XLSForms)
-
-`2020-2021`
-__IT Student at Sozialhelden e.V.__  
 - Creating an Elasticsearch search-component for Wheelmap.org to search data from [accessibility.cloud](https://accessibility.cloud)
-- Maintaining and updating the A11yJSON data format
+- Maintaining and updating the data format A11yJSON
 - Research open accessibility data APIs, implement data import streams in the technical backend to import new data sources
 
 `2017-2019`
 __IT Student at Lufthansa Systems, NetLine Crew__  
-Lufthansa Systems is a leading provider of IT services in the airline industry. NetLine Crew is a crew management system for airlines. As an IT student i worked for both, the Lead Developer and the Lead Product Owner of NetLine Crew. 
-- Capacity planing, build enhancements
-- Restructuring of the development process to use agile methods (Scrum)
+Lufthansa Systems is a leading provider of IT services in the airline industry. NetLine Crew is a crew management system for airlines. 
+- Creating a decentralized MS ACCESS database for Capacity planing across multiple teams and locations
 - Documentation, reporting (EU-GPDR)
 - Event management (Lufthansa Systems Airline Forum 2018)
 
