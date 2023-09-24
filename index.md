@@ -49,7 +49,7 @@ __Customer Manager at Avocis__
 Avocis is a call center service provider.
 - Sales support and contract consulting
 
-`2012-2008`
+`2011-2008`
 __Project Manager at Crisp e.V.__   
 Crisp e.V. is a Berlin based NGO (Verein) that specializes in civil conflict transformation and political education.
 - Project management and organisational development
@@ -62,7 +62,7 @@ Crisp e.V. is a Berlin based NGO (Verein) that specializes in civil conflict tra
 __DIAS GmbH, Hamburg__  
 Web Accessibility Tester ([BIK BITV Test](https://bitvtest.de/start.html))
 
-`2016-2020`
+`2016-2021`
 __HTW Hochschule für Technik und Wirtschaft__ Berlin  
 Bachelor of Science in Applied Comupter Science
 - Thesis: Searching Accessible Places: Implementing Elasticsearch for the Online Map Wheelmap.org
