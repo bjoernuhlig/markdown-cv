@@ -28,7 +28,7 @@ Sozialhelden e.V. is a Berlin based NGO that works on digital solutions for soci
 - Conducting digital accessibility trainings for teams of developers and designers for customers from the public and the private sector
 - Testing Websites for EN 301549, BITV and WCAG compliance
 - Consulting Wheelmap.pro customers on accessiblity surveys (XLSForms)
-- Creating an Elasticsearch search-component for Wheelmap.org to search data from [accessibility.cloud](https://accessibility.cloud)
+- Creating an Elasticsearch search-component for Wheelmap.org to search data from accessibility.cloud
 - Maintaining and updating the data format A11yJSON
 - Research open accessibility data APIs, implement data import streams in the technical backend to import new data sources  
 
