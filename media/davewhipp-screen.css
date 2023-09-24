@@ -184,10 +184,11 @@ p code {
 
 ul {
 	position: relative;
-	left: 26.2%;
+	left: 25%;
 	width: 55%;
 	margin-bottom: 1.5em;
 	margin-top: -0.4em;
+	list-style-position: inside;
 }
 
 /*uncomment to get dashes in the list*/
@@ -197,6 +198,13 @@ ul {
 	left: -0.25em;
 }*/
 
+li {
+	/*second line indent*/
+	padding-left: 1.25em;
+	text-indent: -1.25em;
+	/*color: #777;*/
+}
+
 
 
 li ul {
@@ -204,6 +212,7 @@ li ul {
 	left: 0;
 	width: 100%;
 	margin-top: 0.25em;
+	
 }
 
 h1,
@@ -269,6 +278,7 @@ a:hover {
 
 #webaddress a {
 	/* text-decoration: none; */
+	display: table;
 }
 
 em {
@@ -285,8 +295,20 @@ strong {
 }
 
 
-
-/*
 @media only screen and (max-width: 480px) {
-	make one column somehow...
-}*/
+	p code {
+    right: -32%;
+	}
+	code, table, p, ul {
+		font-size: 80%;
+	}	
+	p, ul {
+		
+    line-height: normal;
+	}
+
+	h2, h3 {
+		text-align: inherit;
+	}
+
+}

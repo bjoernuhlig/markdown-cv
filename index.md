@@ -8,9 +8,8 @@ Fullstack Web Developer -- Web-Accessibility-Expert -- WCAG/BITV Tester
 
 <div id="webaddress">
 <a href="mailto:bjoernuhlig@posteo.de">bjoernuhlig@posteo.de</a>
-| <a href="https://www.linkedin.com/in/bj%C3%B6rn-uhlig-88602493/">Linkedin</a>
-| <a href="tel:+4917643518328">+49 176 435 183 28 </a>
-
+<a href="https://www.linkedin.com/in/bj%C3%B6rn-uhlig-88602493/">Linkedin</a>
+<a href="tel:+4917643518328">+49 176 435 183 28 </a>
 </div>
 
 ## Currently
@@ -40,7 +39,7 @@ Sozialhelden e.V. is a Berlin based NGO that works on digital solutions for soci
 - Consulting Wheelmap.pro customers on accessiblity surveys (XLSForms)
 - Creating an Elasticsearch search-component for Wheelmap.org to search data from [accessibility.cloud](https://accessibility.cloud)
 - Maintaining and updating the data format A11yJSON
-- Research open accessibility data APIs, implement data import streams in the technical backend to import new data sources
+- Research open accessibility data APIs, implement data import streams in the technical backend to import new data sources  
 
 `2017-2019`
 __IT Student at Lufthansa Systems, NetLine Crew__  
