@@ -205,8 +205,6 @@ li {
 	/*color: #777;*/
 }
 
-
-
 li ul {
 	position: relative;
 	left: 0;
@@ -306,6 +304,7 @@ strong {
 	table {
 		left: 0;
 		width: 130%;
+		line-height: normal;
 	}
 
 	p, ul {
@@ -330,6 +329,7 @@ strong {
 
 	#webaddress {
 		left: 0;
+
 	}
 
 }

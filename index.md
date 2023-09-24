@@ -4,7 +4,7 @@ title: Björn's CV
 ---
 # Björn Uhlig  
 
-Fullstack Web Developer -- Web-Accessibility-Expert -- WCAG/BITV Tester
+Fullstack Web Developer, Web-Accessibility-Expert, WCAG/BITV Tester
 
 <div id="webaddress">
 <a href="mailto:bjoernuhlig@posteo.de">bjoernuhlig@posteo.de</a>
@@ -13,17 +13,8 @@ Fullstack Web Developer -- Web-Accessibility-Expert -- WCAG/BITV Tester
 </div>
 
 ## Currently
+Fullstack Web Developer and Web-Accessibility-Expert at Sozialhelden e.V. where I  create accessible Web Frontends, test websites for WCAG/BITV compliance and consult private and public sector clients on digital accessibility. I am positive thinking and motivated, always looking out for the perfectly performing and fully accessible Website.
 
-Fullstack Web Developer and Web-Accessibility-Expert at Sozialhelden e.V.
-
-### Specialized 
-
-Setting up accessible Web Frontends  
-WCAG/BITV testing and consulting,
-
-### Research interests
-
-The perfectly performing and fully accessible Website
 
 ## Work Experience
 
