@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Björn's CV
+title: Björn Uhlig | Fullstack Web Developer and Web-Accessibility-Expert
 ---
 # Björn Uhlig  
 
