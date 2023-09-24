@@ -94,7 +94,7 @@ video {
 
 /* to not have a horizontal scrollbar */
 html {
-	overflow-x: hidden;
+	/* overflow-x: hidden; */
 }
 
 /* HTML5 display-role reset for older browsers */
@@ -302,13 +302,34 @@ strong {
 	code, table, p, ul {
 		font-size: 80%;
 	}	
-	p, ul {
-		
-    line-height: normal;
+
+	table {
+		left: 0;
+		width: auto;
 	}
 
+	p, ul {
+		left: 0;
+    line-height: normal;
+		width: auto;
+	}
+
+	h1, h2, h3 {
+		width: 100%;
+		left: 0;
+	}
 	h2, h3 {
 		text-align: inherit;
+		margin-top: 20%;
+		top: -1em;
+	}
+
+	body {
+		width: min-content;
+	}
+
+	#webaddress {
+		left: 0;
 	}
 
 }
