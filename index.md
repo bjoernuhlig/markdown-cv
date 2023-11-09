@@ -13,31 +13,35 @@ Fullstack Web Developer, Web-Accessibility-Expert, WCAG/BITV Tester
 </div>
 
 ## Currently
-Fullstack Web Developer and Web-Accessibility-Expert at Sozialhelden e.V. where I  create accessible Web Frontends, test websites for WCAG/BITV compliance and consult private and public sector clients on digital accessibility. I am positive thinking and motivated, always looking out for the perfectly performing and fully accessible Website.
+Fullstack Web Developer and certified Web-Accessibility-Expert at Sozialhelden e.V., where I create accessible Web Frontends, test websites for WCAG/BITV compliance and consult private and public sector clients on digital accessibility. I am positive thinking and motivated, always looking out for the perfectly performing and fully accessible Website.
 
 
 ## Work Experience
 
 `2021-Today`
-__Fullstack Web Developer & Accessibility-Expert at Sozialhelden e.V.__  
+__Fullstack Web Developer & Accessibility-Expert &__  
 `2019-2021`
 __IT Student at Sozialhelden e.V.__   
-Sozialhelden e.V. is a Berlin based NGO that works on digital solutions for social inclusion ([Wheelmap.org](https.//wheelmap.org), [A11yJSON](https://github.com/sozialhelden/a11yjson) and [Accessibility.cloud](https://accessibility.cloud)/[Wheelmap.pro](https:.//wheelmap.pro)), is a [BIK BITV](https://bitvtest.de/start.html) certifying testing agency and offers accessibility consulting for Websites.
-- Refactoring the Wheelmap.org Frontend to Next.js and React 18+ 
-- Implementing a k8s process to synchronize an OpenStreetMap Planet with Wheelmap (live at [beta.wheelmap.org](https://beta.wheelmap.org)) 
+Sozialhelden e.V. is a Berlin based NGO that works on digital solutions for social inclusion ([Wheelmap.org](https.//wheelmap.org), [A11yJSON](https://github.com/sozialhelden/a11yjson) and [Accessibility.cloud](https://accessibility.cloud)), is a [BIK BITV](https://bitvtest.de/start.html) certifying testing agency and offers accessibility consulting for Websites.
+- Enhancing the code base of the main application with new features, bugfixing and refactoring
+- Implementing a k8s process to synchronize an OpenStreetMap Planet (kubernetes, Argo, PostgreSQL/PostGIS)
 - Conducting digital accessibility trainings for teams of developers and designers for customers from the public and the private sector
 - Testing Websites for EN 301549, BITV and WCAG compliance
-- Consulting Wheelmap.pro customers on accessiblity surveys (XLSForms)
-- Creating an Elasticsearch search-component for Wheelmap.org to search data from accessibility.cloud
+- Consulting Wheelmap.pro customers on accessiblity surveys (XLSForms)  
+
+As a student I was responsible for the following projects:
 - Maintaining and updating the data format A11yJSON
-- Research open accessibility data APIs, implement data import streams in the technical backend to import new data sources  
+- Developed a highly efficient Elasticsearch-based search component for improved user experience, leveraging Elastic, React, MongoDB, and Typescript
+- Researched and implemented open accessibility data APIs, enhancing the technical backend with seamless data imports from various sources (MongoDB, Javascript)
+
 
 `2017-2019`
 __IT Student at Lufthansa Systems, NetLine Crew__  
 Lufthansa Systems is a leading provider of IT services in the airline industry. NetLine Crew is a crew management system for airlines. 
-- Creating a decentralized MS ACCESS database for Capacity planing across multiple teams and locations
-- Documentation, reporting (EU-GPDR)
-- Event management (Lufthansa Systems Airline Forum 2018)
+
+- Developed a decentralized database to streamline capacity planning and collaboration across multiple teams and locations.
+- Ensured compliance with EU-GDPR regulations through meticulous documentation and reporting.
+- Successfully managed the teams track at Lufthansa Systems Airline Forum 2018, coordinating all aspects of the event and ensuring its smooth execution.
 
 `2015-2017`
 __Customer Manager at Lufthansa InTouch__  
@@ -81,7 +85,7 @@ Diploma in Political Science
 | Javascript   | React         | Git         | PostGIS  | 
 | Typescript   | Meteor        | K8s/Argo    | MongoDB  | 
 | HTML         | Next.js       | Docker      |          | 
-| Java/Scala   |               | Elastic     |          | 
+| Scala        |               | Elastic     |          | 
 | CSS          |               | Node        |          | 
 
 
