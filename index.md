@@ -1,10 +1,10 @@
 ---
 layout: cv
-title: Björn Uhlig | Fullstack Web Developer and Web-Accessibility-Expert
+title: Björn Uhlig | Full Stack Engineer and Web-Accessibility-Expert
 ---
 # Björn Uhlig  
 
-Fullstack Web Developer, Web-Accessibility-Expert, WCAG/BITV Tester
+Full Stack Engineer, Web-Accessibility-Expert, WCAG/BITV Tester
 
 <div id="webaddress">
 <a href="mailto:bjoernuhlig@posteo.de">bjoernuhlig@posteo.de</a>
@@ -13,22 +13,21 @@ Fullstack Web Developer, Web-Accessibility-Expert, WCAG/BITV Tester
 </div>
 
 ## Currently
-Fullstack Web Developer and certified Web-Accessibility-Expert at Sozialhelden e.V., where I create accessible Web Frontends, test websites for WCAG/BITV compliance and consult private and public sector clients on digital accessibility. I am positive thinking and motivated, always looking out for the perfectly performing and fully accessible Website.
+Working as Full Stack Engineer and certified Web-Accessibility-Expert at Sozialhelden e.V., where I create accessible Web Frontends, test websites for WCAG/BITV compliance and consult private and public sector clients on digital accessibility. I am positive thinking and motivated, always looking out for the perfectly performing and fully accessible Website.
 
 
-## Work Experience
-
-`2021-Today`
-__Fullstack Web Developer & Accessibility-Expert &__  
-`2019-2021`
-__IT Student at Sozialhelden e.V.__   
+## Experience
+`May 2021-Today`
+__Full Stack Engineer & Accessibility-Expert &__  
 Sozialhelden e.V. is a Berlin based NGO that works on digital solutions for social inclusion ([Wheelmap.org](https.//wheelmap.org), [A11yJSON](https://github.com/sozialhelden/a11yjson) and [Accessibility.cloud](https://accessibility.cloud)), is a [BIK BITV](https://bitvtest.de/start.html) certifying testing agency and offers accessibility consulting for Websites.
-- Enhancing the code base of the main application with new features, bugfixing and refactoring
+- Enhancing the code base of the main application with new features, bugfixing and refactoring (React, Next.js, Typescript, Meteor)
 - Implementing a k8s process to synchronize an OpenStreetMap Planet (kubernetes, Argo, PostgreSQL/PostGIS)
 - Conducting digital accessibility trainings for teams of developers and designers for customers from the public and the private sector
 - Testing Websites for EN 301549, BITV and WCAG compliance
-- Consulting Wheelmap.pro customers on accessiblity surveys (XLSForms)  
+- Consulting Wheelmap.pro customers on accessiblity surveys
 
+`2019-2021`
+__IT Student at Sozialhelden e.V.__   
 As a student I was responsible for the following projects:
 - Maintaining and updating the data format A11yJSON
 - Developed a highly efficient Elasticsearch-based search component for improved user experience, leveraging Elastic, React, MongoDB, and Typescript
