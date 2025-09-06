@@ -1,10 +1,10 @@
 ---
 layout: cv
-title: Björn Uhlig | Full Stack Engineer and Web-Accessibility-Expert
+title: Björn Uhlig | Frontend Engineer and Web-Accessibility-Expert
 ---
 # Björn Uhlig  
 
-Full Stack Engineer, Web-Accessibility-Expert, WCAG/BITV Tester
+Frontend Engineer, Web-Accessibility-Expert, WCAG/EN-301549 Tester
 
 <div id="webaddress">
 <a href="mailto:bjoernuhlig@posteo.de">bjoernuhlig@posteo.de</a>
@@ -13,14 +13,19 @@ Full Stack Engineer, Web-Accessibility-Expert, WCAG/BITV Tester
 </div>
 
 ## Currently
-Working as Full Stack Engineer and certified Web-Accessibility-Expert at Sozialhelden e.V., where I create accessible Web Frontends, test websites for WCAG/BITV compliance and consult private and public sector clients on digital accessibility. I am positive thinking and motivated, always looking out for the perfectly performing and fully accessible Website.
-
+Working as Frontend Developer and Accessibility Consultant at Krieger Digital. Here, I mainly create complex custom components for a complete inhouse replacement of the company's ERP. Additionally, I provide expertise and support, coach teams and conduct inhouse workshops on all questions concerning the accessibility of the company's E-Commerce sector.
 
 ## Experience
-`May 2021-Today`
+`January 2024-Today`
+Krieger Digital builds and maintaines software for Krieger Group.
+- Create complex custom components for an ERP inhouse replacement (TS, React, Redux (RTKQ), Node.js, REST)
+- Conduct a11y consulting and workshops for QA, UI/UX, dev, media and CMS teams
+
+`2021-2024`
 __Full Stack Engineer & Accessibility-Expert &__  
-Sozialhelden e.V. is a Berlin based NGO that works on digital solutions for social inclusion ([Wheelmap.org](https.//wheelmap.org), [A11yJSON](https://github.com/sozialhelden/a11yjson) and [Accessibility.cloud](https://accessibility.cloud)), is a [BIK BITV](https://bitvtest.de/start.html) certifying testing agency and offers accessibility consulting for Websites.
-- Enhancing the code base of the main application with new features, bugfixing and refactoring (React, Next.js, Typescript, Meteor)
+Worked as a Full Stack Engineer and certified Web-Accessibility-Expert at Sozialhelden e.V., where I created accessible Web Frontends, tested websites for WCAG/EN-301549 compliance and consulted private and public sector clients on digital accessibility. 
+Sozialhelden e.V. is a Berlin based NGO that works on digital solutions for social inclusion ([Wheelmap.org](https.//wheelmap.org), [A11yJSON](https://github.com/sozialhelden/a11yjson) and [Accessibility.cloud](https://accessibility.cloud)).
+- Enhancing the code base of the main application with new features, bugfixing and refactoring (React, Next.js, Typescript, Node.js (Meteor))
 - Implementing a k8s process to synchronize an OpenStreetMap Planet (kubernetes, Argo, PostgreSQL/PostGIS)
 - Conducting digital accessibility trainings for teams of developers and designers for customers from the public and the private sector
 - Testing Websites for EN 301549, BITV and WCAG compliance
@@ -47,12 +52,7 @@ __Customer Manager at Lufthansa InTouch__
 Lufthansa InTouch is the Lufthansa Group's service center for customer service. 
 - Sales support and First Class customer consulting for Lufthansa's frequent flyer program Miles & More Members including Lufthansa's HON Circle Members.
 
-`2014`
-__Customer Manager at Avocis__  
-Avocis is a call center service provider.
-- Sales support and contract consulting
-
-`2011-2008`
+`2008-2011`
 __Project Manager at Crisp e.V.__   
 Crisp e.V. is a Berlin based NGO (Verein) that specializes in civil conflict transformation and political education.
 - Project management and organisational development
@@ -81,11 +81,11 @@ Diploma in Political Science
 
 | __Language__ | __Framework__ | __DevOps__  | __DB__   | 
 | ------------ | ------------- | ----------- | -------- | 
-| Javascript   | React         | Git         | PostGIS  | 
-| Typescript   | Meteor        | K8s/Argo    | MongoDB  | 
-| HTML         | Next.js       | Docker      |          | 
-| Scala        |               | Elastic     |          | 
-| CSS          |               | Node        |          | 
+| Typescript   | React         | Git         | PostGIS  | 
+| HTML         | RTKQ          | K8s/Argo    | MongoDB  | 
+| Scala        | Meteor        | Docker      |          | 
+| CSS          | Next.js       | Elastic     |          | 
+|              |               | Node.js     |          | 
 
 
 ## Languages
