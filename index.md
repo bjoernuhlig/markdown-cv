@@ -16,13 +16,14 @@ Frontend Engineer, Web-Accessibility-Expert, WCAG/EN-301549 Tester
 Working as Frontend Developer and Accessibility Consultant at Krieger Digital. Here, I mainly create complex custom components for a complete inhouse replacement of the company's ERP. Additionally, I provide expertise and support, coach teams and conduct inhouse workshops on all questions concerning the accessibility of the company's E-Commerce sector.
 
 ## Experience
+__Frontend Developer & Accessibility-Consultant__
 `January 2024-Today`
 Krieger Digital builds and maintaines software for Krieger Group.
 - Create complex custom components for an ERP inhouse replacement (TS, React, Redux (RTKQ), Node.js, REST)
 - Conduct a11y consulting and workshops for QA, UI/UX, dev, media and CMS teams
 
 `2021-2024`
-__Full Stack Engineer & Accessibility-Expert &__  
+__Full Stack Engineer & Accessibility-Expert__
 Worked as a Full Stack Engineer and certified Web-Accessibility-Expert at Sozialhelden e.V., where I created accessible Web Frontends, tested websites for WCAG/EN-301549 compliance and consulted private and public sector clients on digital accessibility. 
 Sozialhelden e.V. is a Berlin based NGO that works on digital solutions for social inclusion ([Wheelmap.org](https.//wheelmap.org), [A11yJSON](https://github.com/sozialhelden/a11yjson) and [Accessibility.cloud](https://accessibility.cloud)).
 - Enhancing the code base of the main application with new features, bugfixing and refactoring (React, Next.js, Typescript, Node.js (Meteor))
